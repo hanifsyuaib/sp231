@@ -91,3 +91,13 @@ ZCZC W07  10 L13 Assignment #03
 ZCZC W07 120 L14 Assignment #04
 ZCZC W07  10 L41 TXT/mylog.txt related.
 ZCZC W07  60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W08  15 L01 SCELE/Discord related
+ZCZC W08 150 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08  10 L03 GitHub and git related, including commit, push, pull
+ZCZC W08  10 L04 GitHub Pages related
+ZCZC W08 120 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08  20 L11 Assignment #01
+ZCZC W08  10 L12 Assignment #02
+ZCZC W08 180 L13 Assignment #03
+ZCZC W08  10 L41 TXT/mylog.txt related.
+ZCZC W08  60 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
